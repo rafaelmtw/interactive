@@ -12,10 +12,17 @@ function HomePage() {
         <meta name="description" content="An example of a 3D website." />
       </Head>
       <div className="w-full h-full">
-        <div className="flex flex-wrap justify-center">
-          <Link href="interactive">
-            <button className="btn btn-wide">START</button>
-          </Link>
+        <div className="flex flex-col flex-wrap justify-center content-center ">
+          <div className="mt-[12%]">
+            <Link href="interactive">
+              <button className="btn btn-wide">THREE.JS</button>
+            </Link>
+          </div>
+          <div className="my-[2%]">
+            <Link href="zustand">
+              <button className="btn btn-wide">ZUSTAND</button>
+            </Link>
+          </div>
         </div>
       </div>
     </Fragment>

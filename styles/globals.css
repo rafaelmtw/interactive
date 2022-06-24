@@ -17,6 +17,11 @@ body,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+.dark {
+  background-color: #282c34;
+  color: white;
+}
+
 a {
   color: inherit;
   text-decoration: none;

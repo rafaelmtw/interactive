@@ -21,7 +21,8 @@
     "react-spring": "^9.4.5",
     "react-three-fiber": "^6.0.13",
     "sass": "^1.52.2",
-    "three": "^0.141.0"
+    "three": "^0.141.0",
+    "zustand": "^4.0.0-rc.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
