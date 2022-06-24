@@ -22,3 +22,5 @@ peopleStore = devtools(peopleStore);
 
 export const useSettingsStore = create(settingsStore);
 export const usePeoplesStore = create(peopleStore);
+
+export default usePeoplesStore;
